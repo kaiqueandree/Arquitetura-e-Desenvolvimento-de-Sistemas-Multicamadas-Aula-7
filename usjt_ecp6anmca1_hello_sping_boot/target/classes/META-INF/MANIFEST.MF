@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: usjt_ecp6anmca1_hello_sping_boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 81824489
+Implementation-Vendor-Id: br.usjt
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/usjt_ecp6anmca1_hello_sping_boot
+Created-By: Maven Integration for Eclipse
+
